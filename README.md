@@ -54,8 +54,8 @@ Delete original image/archive files (if conversion succeeds)
 
 🔁 Example File Structure (Before and After)
 
-```
 **Before:**
+```
 MyROMs/
 ├── Game Title (Disc 1).cue
 ├── Game Title (Disc 2).bin
@@ -63,8 +63,8 @@ MyROMs/
 └── Game.7z
 ```
 
-```
 **After:**
+```
 MyROMs/
 ├── Game Title/
 │ ├── Game Title.m3u
