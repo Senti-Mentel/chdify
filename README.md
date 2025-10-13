@@ -55,7 +55,7 @@ Delete original image/archive files (if conversion succeeds)
 
 Before:
 
-MyROMs/
+**MyROMs/
 
 ├── Game Title (Disc 1).cue
 
@@ -63,22 +63,22 @@ MyROMs/
 
 ├── Another Game.iso
 
-└── Game.7z
+└── Game.7z**
 
 
 After:
 
-MyROMs/
+**MyROMs/
 
 ├── Game Title/
 
-│ ├── Game Title.m3u
+   ├── Game Title.m3u
 
-│ ├── Game Title (Disc 1).chd
+   ├── Game Title (Disc 1).chd
 
-│ └── Game Title (Disc 2).chd
+   └── Game Title (Disc 2).chd
 
-└── Another Game.chd
+└── Another Game.chd**
 
 
 ⚠️ Disclaimer
