@@ -1,6 +1,6 @@
 # chdify
 Automatically extract, clean, and convert game ISO/CUE/BIN and to CD/DVD CHD format for emulation.
-**chdify** is a Windows batch script designed to automate the cleanup and preparation of large ROM or disc image collections — especially for use with retro game emulators like DuckStation, RetroArch, and PCSX2.
+**chdify** is a Windows batch script designed to automate the cleanup and preparation of large ROM or disc image collections — especially for use with retro game emulators like RetroBat, RetroArch, and RomM.
 
 It extracts compressed archives, converts CD/DVD images to the more efficient `.chd` format, and organizes multi-disc games with proper `.m3u` playlist support — all in one go.
 
