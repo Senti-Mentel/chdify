@@ -68,8 +68,9 @@ Before:
 
 After:
 
-MyROMs/
+### 📁 Folder Structure
 
+MyROMs/
 ├── Game Title/
 │ ├── Game Title.m3u
 │ ├── Game Title (Disc 1).chd
