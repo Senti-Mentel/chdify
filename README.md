@@ -35,6 +35,7 @@ Make sure these tools are accessible in your system's PATH or in the same folder
    set MODE=createcd
 
    Change to createcd or createdvd depending on the media type.
+   ```
 3. Double-click the script to run it.
 
 The script will:
@@ -55,25 +56,25 @@ Delete original image/archive files (if conversion succeeds)
 
 Before:
 
-   ```bat
-   MyROMs/
-
-   ├── Game Title (Disc 1).cue
-   ├── Game Title (Disc 2).bin
-   ├── Another Game.iso
-   └── Game.7z**
+```
+MyROMs/
+├── Game Title/
+│   ├── Game Title.m3u
+│   ├── Game Title (Disc 1).chd
+│   └── Game Title (Disc 2).chd
+└── Another Game.chd
 
 
 After:
 
-   ```bat
-   MyROMs/
-   ├── Game Title/
-   │ ├── Game Title.m3u
-   │ ├── Game Title (Disc 1).chd
-   │ └── Game Title (Disc 2).chd
-   └── Another Game.chd
-
+```
+MyROMs/
+├── Game Title/
+│ ├── Game Title.m3u
+│ ├── Game Title (Disc 1).chd
+│ └── Game Title (Disc 2).chd
+└── Another Game.chd
+```
 
 ⚠️ Disclaimer
 
