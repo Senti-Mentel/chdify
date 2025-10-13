@@ -55,7 +55,8 @@ Delete original image/archive files (if conversion succeeds)
 
 Before:
 
-**MyROMs/
+```bat
+MyROMs/
 
 ├── Game Title (Disc 1).cue
 
@@ -68,8 +69,7 @@ Before:
 
 After:
 
-### 📁 Folder Structure
-
+```bat
 MyROMs/
 ├── Game Title/
 │ ├── Game Title.m3u
