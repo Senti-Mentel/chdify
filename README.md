@@ -55,23 +55,24 @@ Delete original image/archive files (if conversion succeeds)
 
 Before:
 
-```bat
-MyROMs/
+   ```bat
+   MyROMs/
 
-├── Game Title (Disc 1).cue
-├── Game Title (Disc 2).bin
-├── Another Game.iso
-└── Game.7z**
+   ├── Game Title (Disc 1).cue
+   ├── Game Title (Disc 2).bin
+   ├── Another Game.iso
+   └── Game.7z**
 
 
 After:
 
-MyROMs/
-├── Game Title/
-│ ├── Game Title.m3u
-│ ├── Game Title (Disc 1).chd
-│ └── Game Title (Disc 2).chd
-└── Another Game.chd
+   ```bat
+   MyROMs/
+   ├── Game Title/
+   │ ├── Game Title.m3u
+   │ ├── Game Title (Disc 1).chd
+   │ └── Game Title (Disc 2).chd
+   └── Another Game.chd
 
 
 ⚠️ Disclaimer
