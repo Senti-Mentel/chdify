@@ -54,27 +54,24 @@ Delete original image/archive files (if conversion succeeds)
 
 🔁 Example File Structure (Before and After)
 
-Before:
-
-```
+**Before:**
 MyROMs/
-├── Game Title/
-│   ├── Game Title.m3u
-│   ├── Game Title (Disc 1).chd
-│   └── Game Title (Disc 2).chd
-└── Another Game.chd
+├── Game Title (Disc 1).cue
+├── Game Title (Disc 2).bin
+├── Another Game.iso
+└── Game.7z
 
+makefile
+Copy code
 
-After:
-
-```
+**After:**
 MyROMs/
 ├── Game Title/
 │ ├── Game Title.m3u
 │ ├── Game Title (Disc 1).chd
 │ └── Game Title (Disc 2).chd
 └── Another Game.chd
-```
+
 
 ⚠️ Disclaimer
 
