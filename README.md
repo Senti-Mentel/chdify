@@ -30,7 +30,7 @@ Make sure these tools are accessible in your system's PATH or in the same folder
 ## 📦 Usage
 
 1. Place the script (`chdify.bat`) in the root folder containing your ROM or ISO/7z collection.
-2. Open the script in a text editor and set your preferred conversion mode:
+2. Open the script in a text editor and set your preferred conversion mode (createcd for ps1,ps2, etc./createdvd for psp):
    ```bat
    set MODE=createcd
 
