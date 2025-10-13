@@ -56,20 +56,26 @@ Delete original image/archive files (if conversion succeeds)
 Before:
 
 MyROMs/
-├── Game Title (Disc 1).cue
-├── Game Title (Disc 2).cue
-├── Another Game.iso
-├── Game.7z
 
+Game Title (Disc 1).cue
+
+Game Title (Disc 2).cue
+
+Another Game.iso
+
+Game.7z
 
 After:
 
 MyROMs/
-├── Game Title.m3u
-├── Game Title (Disc 1).chd
-├── Game Title (Disc 2).chd
-├── Another Game.chd
 
+Game Title.m3u
+
+Game Title (Disc 1).chd
+
+Game Title (Disc 2).chd
+
+Another Game.chd
 ⚠️ Disclaimer
 
 This script permanently deletes .7z, .iso, .cue, and .bin files after successful conversion. Make sure you have backups or confirm the CHD output before deleting originals.
