@@ -72,11 +72,11 @@ After:
 
 ├── Game Title/
 
-   ├── Game Title.m3u
+***├── Game Title.m3u
 
-   ├── Game Title (Disc 1).chd
+***├── Game Title (Disc 1).chd
 
-   └── Game Title (Disc 2).chd
+***└── Game Title (Disc 2).chd
 
 └── Another Game.chd**
 
