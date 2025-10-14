@@ -1,3 +1,5 @@
+Feel Free to check out my in depth blog post about chdify at: https://sentimenteltech.com/organize-compress-and-clean-your-iso-bin-cue-rom-library-with-chdify/
+
 # chdify
 Automatically extract, clean, and convert game ISO/CUE/BIN to CD/DVD CHD format for emulation and cleanup after.
 **chdify** is a Windows batch script designed to automate the cleanup and preparation of large ROM or disc image collections — especially for use with retro game emulators like RetroBat, RetroArch, and RomM.
